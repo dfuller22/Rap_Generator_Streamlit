@@ -43,7 +43,7 @@ If you've said yes, then try using the *Rap Generator 2000*! (RG2K)
 ## Instructions
 
 1. Adjust the parameters in the sidebar
-2. Place some words in the box
+2. Place some words in the box (*no punctuation*)
 3. Click that button!
 """
 
@@ -96,7 +96,7 @@ up with may still refer to vulgar topics.
 * You can enter as many words as needed to give the RG2K a start, but it works best with a single line or <10 words.
 * The RG2K is in the early stages with respect to performance. As a result, it is not consistent at producing a proper rhyme scheme. 
 Time permitting, I intend add in lyrics from other artists to further experiment with outputs and improve lyric quality. For this first
-iteration, I really wanted to see how well it could perform on a small scale.
+iteration, I wanted to see how well it could perform on a small scale.
 
 ------
 ## Background and Summary
